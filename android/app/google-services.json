@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327654390562",
+    "project_id": "the-travel-96e98",
+    "storage_bucket": "the-travel-96e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327654390562:android:bb0c8cf1256fdef477c37b",
+        "android_client_info": {
+          "package_name": "co.aziz.heeelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327654390562-oo3v1prr70atocg9921g806225ocucdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGzpy1hPameoZ3GCMRKJmSNQteLUOZ9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327654390562-oo3v1prr70atocg9921g806225ocucdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
